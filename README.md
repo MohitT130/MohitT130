@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohitT130
 - 👀 I’m interested in web development and data analytics!
-- 🌱 I’m currently learning CSS and JavaScript.
+- 🌱 I’m currently learning Web Development and Machine Learning.
 
 
 <!---
